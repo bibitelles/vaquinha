@@ -16,3 +16,4 @@ O objetivo do jogo é fazer a personagem (Vaquinha) atravessar a estrada até o 
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/bibitelles/vaquinha).
 ## 🛠️ Abrir e rodar o projeto
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+<iframe src="https://editor.p5js.org/bibitelles/full/f3DI_gJO5"></iframe>
